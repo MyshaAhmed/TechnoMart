@@ -1,0 +1,7 @@
+/*  global classes  */
+// will remove light blue border of button when clicked
+button,
+button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
